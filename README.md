@@ -1,2 +1,2 @@
 # HCaptcha-Solver
-Solver that can solve text and image challenges
+50 ✨ for release
